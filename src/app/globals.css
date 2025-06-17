@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-stone-900 text-stone-50 select-none;
+}
+.btn-primary {
+  @apply bg-stone-700 drop-shadow-stone-800 drop-shadow-sm hover:bg-stone-300 p-2 rounded-md text-stone-50;
+}
+
+span {
+  @apply antialiased;
+}
