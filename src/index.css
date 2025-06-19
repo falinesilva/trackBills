@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-stone-950 text-stone-50;
+}
+
+.btn-primary {
+  @apply bg-stone-50 rounded-sm p-2 m-2 text-stone-950;
+}
